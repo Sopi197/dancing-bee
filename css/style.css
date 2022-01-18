@@ -1,0 +1,14 @@
+body{
+   background: #34163b;
+   text-align: center;
+}
+
+canvas{
+   width: 400px;
+   height: 200px;
+   background: #0099ff;
+}
+
+#music{
+   opacity: 0;
+}
